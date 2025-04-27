@@ -1,3 +1,4 @@
 # E-Commerce
 
-[Preview of the project](project-2.png)
+Preview of the project👇
+https://yehia-hossam.github.io/E-Commerce/
